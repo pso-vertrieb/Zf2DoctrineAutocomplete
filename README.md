@@ -99,4 +99,3 @@ After add the new element in page, call the initializer:
 
     zf2DoctrineAutocomplete.init('#jQuerySelector');
 
-Hallo, Welt!
