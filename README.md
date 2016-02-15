@@ -98,3 +98,5 @@ This file must be statically configured because is called from Zf2DoctrineAutoco
 After add the new element in page, call the initializer:
 
     zf2DoctrineAutocomplete.init('#jQuerySelector');
+
+Hallo, Welt!
